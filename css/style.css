@@ -1,0 +1,15 @@
+.perfil{
+    height: 650px;
+    width: 550px;
+}
+ .direccion {
+     height:300px;
+     width: 400px;
+ }
+ body {
+    background: url(../images/fondo.webp) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
